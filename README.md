@@ -17,4 +17,4 @@
 
 [Mineração Massiva de Dados](http://marcial.larces.uece.br/cursos/mineracao-massiva-de-dados-2021-1)
 
-[Datas Cience Academy](https://www.datascienceacademy.com.br/course/python-fundamentos) - Curso de python
+[Datas Cience Academy - Curso de python](https://www.datascienceacademy.com.br/course/python-fundamentos) 
