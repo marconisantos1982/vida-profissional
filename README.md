@@ -1,4 +1,4 @@
-# Assuntos dos Cursos
+# Assuntos dos Cursos 📚
 
 ### 1. Bootcamp: Santander Bootcamp Fullstack Developer
  ☑️ MÓDULO 0 - Prepare-se para a jornada
