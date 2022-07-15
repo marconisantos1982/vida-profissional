@@ -7,12 +7,15 @@
   - Aula inaugural - Santander Bootcamp Fullstrack Developer
 
 ☑️ MÓDULO I - Conteúdo de Abertura
-  - Introdução a P´rogramação e Pensamento Computacional
+  - Introdução a Programação e Pensamento Computacional
   - Introdução ao Git e ao GitHub
   - Criando seu primeiro Repositório no GuitHub Para Compartilhar seu Progresso
 
 ▶️  MÓDULO II - HTML/CSS3/JS
   - Introdução a criação de websites com HTML5 e CSS3
+  - Posicionando elementos com Flexbox em CSS
+  - Primeiros passos para o desenvolvimento web
+  - Recriando a página inicial do Instagram
 
 - MÓDULO III - Angular
 
@@ -31,6 +34,8 @@
 
 ▶️ MÓDULO II - HTML/CSS3
  - Primeiros passos para desenvolvimento web
+ - Introdução a criação de websites com HTML5 e CSS3
+ - Recriando a página inicial do Instagram
 
 - MÓDULO III - Javascript
 
